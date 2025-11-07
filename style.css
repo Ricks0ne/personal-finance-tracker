@@ -11,10 +11,11 @@ body {
   background: white;
   padding: 20px 30px;
   border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
 }
 
@@ -25,7 +26,9 @@ form {
   justify-content: center;
 }
 
-input, select, button {
+input,
+select,
+button {
   padding: 8px;
   font-size: 16px;
   border: 1px solid #ccc;
@@ -50,7 +53,8 @@ table {
   margin-top: 10px;
 }
 
-th, td {
+th,
+td {
   border: 1px solid #ddd;
   padding: 10px;
   text-align: center;
@@ -61,6 +65,11 @@ th, td {
   padding: 15px;
   border-radius: 8px;
   margin-top: 15px;
+}
+
+.filter-section {
+  margin-top: 15px;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
