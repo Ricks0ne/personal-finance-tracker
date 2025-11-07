@@ -51,7 +51,8 @@ A simple, browser-based application to track income and expenses with persistent
 
    Export your data to CSV when needed.
 
-   🌐 Deployment (GitHub Pages)
+
+## 🌐 Deployment (GitHub Pages)
 
 To host this app on GitHub Pages:
 
@@ -69,3 +70,4 @@ https://<your-username>.github.io/personal-finance-tracker/
 
 Ricks
 🔗 [GitHub Profile](https://github.com/Ricks0ne)
+
